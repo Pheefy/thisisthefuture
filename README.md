@@ -50,3 +50,4 @@ First, run the code in `sentiment.ipynb` to generate a new Wikipedia edits datas
 
 Second, run the code in `prediction.ipynb`.  By default, this will load data from an existing `btc.csv` file.  Removing that code will ensure that it downloads the newest data from Yahoo Finance.# thisisthefuture
 # thisisthefuture
+# thisisthefuture
